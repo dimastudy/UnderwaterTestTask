@@ -1,6 +1,5 @@
 package com.justadev.underwaterworldtesttask.core.utils
 
-import android.util.Log
 import androidx.compose.ui.input.pointer.AwaitPointerEventScope
 import com.justadev.underwaterworldtesttask.domain.model.GameStatus
 
