@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UnderwaterWorldTestTask</string>
+    <string name="lives_image">Lives Image</string>
+    <string name="start">Start</string>
+    <string name="score_is">Score: %1$s</string>
+    <string name="time_left">Time left: %1$s</string>
+    <string name="bonus_score_5">Bonus Score +5</string>
+    <string name="bonus_time_5s">Bonus Time +5s</string>
+    <string name="home">Home</string>
+    <string name="restart">Restart</string>
+    <string name="quit">Quit</string>
+    <string name="you_won">You won!</string>
+    <string name="you_lost">You lost</string>
+    <string name="game_score_is">Game Score: %1$s</string>
+    <string name="play">Play</string>
+    <string name="game_ship">Game Ship</string>
+    <string name="swipe_left">Swipe Left</string>
+    <string name="swipe_right">swipe_right</string>
+    <string name="obstacle">Obstacle</string>
+    <string name="stone_obstacle_if_ship_collide_with_it_1_life_point_will_be_removed">Stone obstacle. If ship collide with it, 1 life point will be removed</string>
+    <string name="bonus_obstacle_if_ship_collide_with_it_5_score_will_be_granted">Bonus obstacle. If ship collide with it, +5 score will be granted</string>
+    <string name="sand_clock_obstacle_if_ship_collide_with_it_5_seconds_will_be_granted_to_your_time">Sand clock obstacle. If ship collide with it, +5 seconds will be granted to your time</string>
+</resources>
